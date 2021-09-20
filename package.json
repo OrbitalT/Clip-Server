@@ -1,0 +1,24 @@
+{
+  "name": "clip-server",
+  "version": "1.0.0",
+  "description": "This is a clip uploading server used in conjunction with the Cyborg Bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrbitalT/Clip-Server.git"
+  },
+  "author": "NNukeZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrbitalT/Clip-Server/issues"
+  },
+  "homepage": "https://github.com/OrbitalT/Clip-Server#readme",
+  "dependencies": {
+    "dropzone": "^5.9.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
